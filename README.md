@@ -1,6 +1,6 @@
 # notification-master
 
-To access Rest API doc: http://localhost:8080/api
+To access Rest API doc: http://localhost:8082/api
 
 API Reference
 API 1: Notify to a Channel
